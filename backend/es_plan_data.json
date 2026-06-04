@@ -1,0 +1,5594 @@
+{
+  "weeks": [
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 623",
+      "week_date": "2025-06-23",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6018.0,
+          "note": "Not much difference from one week to the next for 3 weeks"
+        },
+        "ES Weekly H1": {
+          "value": 6118.25,
+          "note": "No touches in 2 weeks"
+        },
+        "ES Weekly H2": {
+          "value": 6454.5,
+          "note": null
+        },
+        "ES Weekly L1": {
+          "value": 5897.0,
+          "note": "No touches in 2 weeks"
+        },
+        "ES Weekly L2": {
+          "value": 5515.0,
+          "note": null
+        },
+        "VWAP Daily": {
+          "value": 6020.25,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6046.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6010.25,
+          "note": "We're at or close to major VWAP levels with a strong eye towards this level"
+        },
+        "VWAP Quarterly": {
+          "value": 5643.75,
+          "note": "I'm not expecting to get here before the month ends"
+        },
+        "VWAP Yearly": {
+          "value": 5782.25,
+          "note": "This level has been steadily inclining"
+        },
+        "Buy Level of Interest": {
+          "value": 5910.0,
+          "note": "Weekly L1 and -1ATR on the Daily. Need patience to wait for these levels"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Moderate Sell",
+          "note": "We are in the 7th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Sell",
+          "note": "Still pushing negative green and that means reversion will occur."
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Sell",
+          "note": "Daily is pushing positive green so this is a two way market"
+        },
+        "ES Monthly Projected Price": {
+          "value": 5543.0,
+          "note": "Reversion to the mean"
+        },
+        "ES Weekly Projected Price": {
+          "value": 5612.75,
+          "note": "Reversion to -1atr"
+        },
+        "ES Daily Projected Price": {
+          "value": 5902.0,
+          "note": "Reversion to -1atr"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "Could go either way"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "There's a premium on patience and discipline"
+        },
+        "ES Bear Trap Zone": {
+          "value": 5962.25,
+          "note": "Low sell volume area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 54.18,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 34.63,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 27.76,
+          "note": "I see more vlatility coming then less volatility. This a peculiar summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Tuesday & Wednesday Fed Chair testimony. Thursday GDP"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-06-23",
+          "levels": {
+            "4H": "6018 (0ATR)",
+            "Daily": "6018 (0ATR)",
+            "Weekly": "6018 (0ATR)",
+            "Monthly": "6018 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down /Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15min. OSH",
+            "Level": 5993.0,
+            "VIX": 25.35,
+            "AIPivot": "5897 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-06-24",
+          "levels": {
+            "4H": "6078 (2ATR)",
+            "Daily": "6078 (1ATR)",
+            "Weekly": "6078 (1ATR)",
+            "Monthly": "6078 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Up",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6054.0,
+            "VIX": 25.35,
+            "AIPivot": "5897 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-06-25",
+          "levels": {
+            "4H": "6144.75 (2ATR)",
+            "Daily": "6144.75 (2ATR)",
+            "Weekly": "6144.75 (1ATR)",
+            "Monthly": "6144.75 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Up",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6054.0,
+            "VIX": 25.35,
+            "AIPivot": "5897 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-06-26",
+          "levels": {
+            "4H": "6144.75 (1ATR)",
+            "Daily": "6144.75 (1ATR)",
+            "Weekly": "6144.75 (1ATR)",
+            "Monthly": "6144.75 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6135.0,
+            "VIX": 25.35,
+            "AIPivot": "6081 (H1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-06-27",
+          "levels": {
+            "4H": "5685 (0ATR)",
+            "Daily": "5685 (1ATR)",
+            "Weekly": "5685 (0ATR)",
+            "Monthly": "5685 (0ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Down/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 Min OBH",
+            "Level": "5750 (VWAP)",
+            "VIX": 23.74,
+            "AIPivot": 5642.0
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 630",
+      "week_date": "2025-06-23",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6223.0,
+          "note": "Significant move week over week"
+        },
+        "ES Weekly H1": {
+          "value": 6354.0,
+          "note": "No touches in 2 weeks prior but exploded to H1"
+        },
+        "ES Weekly H2": {
+          "value": 6708.0,
+          "note": null
+        },
+        "ES Weekly L1": {
+          "value": 6095.0,
+          "note": "No touches in 3 weeks"
+        },
+        "ES Weekly L2": {
+          "value": 5717.0,
+          "note": null
+        },
+        "VWAP Daily": {
+          "value": 6244.25,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6244.25,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6041.0,
+          "note": "This tells me that we are a bit expensive in terms of price"
+        },
+        "VWAP Quarterly": {
+          "value": 5674.0,
+          "note": "I'm not expecting to get here before the month ends"
+        },
+        "VWAP Yearly": {
+          "value": 5795.0,
+          "note": "This level has been steadily inclining"
+        },
+        "Buy Level of Interest": {
+          "value": 6202.0,
+          "note": "Weekly L1 and -1ATR on the Daily. Need patience to wait for these levels"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Moderate Sell",
+          "note": "We are in the 7th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Sell",
+          "note": "While green is positive it won't clear the yellow before it turns over"
+        },
+        "ES Daily Posture": {
+          "value": "Weak buy",
+          "note": "We're at 3ATR and in need of reversion"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6338.0,
+          "note": "2ATR"
+        },
+        "ES Weekly Projected Price": {
+          "value": 6331.0,
+          "note": "2ATR"
+        },
+        "ES Daily Projected Price": {
+          "value": 6284.0,
+          "note": "3ATR Don't short"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": null
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "There's a premium on patience and discipline"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6185.0,
+          "note": "Low sell volume area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 54.3,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 26.79,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 23.82,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Nonfarm payroll on Thursday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-06-23",
+          "levels": {
+            "4H": "6223 (3ATR)",
+            "Daily": "6223 (3ATR)",
+            "Weekly": "6223 (1ATR)",
+            "Monthly": "6223 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up /Up",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15min. OSH",
+            "Level": 6200.0,
+            "VIX": 25.35,
+            "AIPivot": "6095 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-06-24",
+          "levels": {
+            "4H": "6078 (2ATR)",
+            "Daily": "6078 (1ATR)",
+            "Weekly": "6078 (1ATR)",
+            "Monthly": "6078 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Up",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6054.0,
+            "VIX": 25.35,
+            "AIPivot": "6095 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-06-25",
+          "levels": {
+            "4H": "6249 (1ATR)",
+            "Daily": "6249 (2ATR)",
+            "Weekly": "6249 (1ATR)",
+            "Monthly": "6249 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6210.0,
+            "VIX": 15.41,
+            "AIPivot": "6095 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-06-26",
+          "levels": {
+            "4H": "6144.75 (1ATR)",
+            "Daily": "6144.75 (1ATR)",
+            "Weekly": "6144.75 (1ATR)",
+            "Monthly": "6144.75 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6135.0,
+            "VIX": 25.35,
+            "AIPivot": "6081 (H1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-06-27",
+          "levels": {
+            "4H": "5685 (0ATR)",
+            "Daily": "5685 (1ATR)",
+            "Weekly": "5685 (0ATR)",
+            "Monthly": "5685 (0ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Down/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 Min OBH",
+            "Level": "5750 (VWAP)",
+            "VIX": 23.74,
+            "AIPivot": 5642.0
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 77",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6307.75,
+          "note": "Steady incline be weary of regressions to the mean"
+        },
+        "ES Weekly H1": {
+          "value": 6440.5,
+          "note": "This would give me cause to pause on so many levels"
+        },
+        "ES Weekly H2": {
+          "value": 6799.0,
+          "note": null
+        },
+        "ES Weekly L1": {
+          "value": 6178.0,
+          "note": "No touches in 4 weeks"
+        },
+        "ES Weekly L2": {
+          "value": 5794.0,
+          "note": "This strangely is a more realistic target"
+        },
+        "VWAP Daily": {
+          "value": 6304.25,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6304.25,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6262.25,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6262.25,
+          "note": "Be aggressive when we regress here"
+        },
+        "VWAP Yearly": {
+          "value": 5802.65,
+          "note": "I feel as if value has to come back up before we truly regress"
+        },
+        "Buy Level of Interest": {
+          "value": 6262.0,
+          "note": "This is a strong VWAP and low selling area"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Moderate Sell",
+          "note": "We are in the 8th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Sell",
+          "note": "While green is positive it won't clear the yellow before it turns over"
+        },
+        "ES Daily Posture": {
+          "value": "Weak buy",
+          "note": "We're at 3ATR and in need of reversion"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6354.0,
+          "note": "2ATR"
+        },
+        "ES Weekly Projected Price": {
+          "value": 6357.0,
+          "note": "2ATR"
+        },
+        "ES Daily Projected Price": {
+          "value": 6330.0,
+          "note": "3ATR Don't short"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": null
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "There's a premium on patience and discipline"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6262.0,
+          "note": "Low sell volume area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 51.01,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 39.36,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 22.55,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Minutes Wednesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-07-08",
+          "levels": {
+            "4H": "6397 (1ATR)",
+            "Daily": "6397 (3ATR)",
+            "Weekly": "6307 (1ATR)",
+            "Monthly": "6307 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up /Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15min. OSH",
+            "Level": 6268.0,
+            "VIX": 22.55,
+            "AIPivot": "6178 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-08",
+          "levels": {
+            "4H": "6262 (2ATR)",
+            "Daily": "6262 (1ATR)",
+            "Weekly": "6262 (1ATR)",
+            "Monthly": "6262 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6267.0,
+            "VIX": 25.35,
+            "AIPivot": "6178 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-07-09",
+          "levels": {
+            "4H": "6249 (1ATR)",
+            "Daily": "6249 (2ATR)",
+            "Weekly": "6249 (1ATR)",
+            "Monthly": "6249 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6210.0,
+            "VIX": 15.41,
+            "AIPivot": "6095 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-07-10",
+          "levels": {
+            "4H": "6144.75 (1ATR)",
+            "Daily": "6144.75 (1ATR)",
+            "Weekly": "6144.75 (1ATR)",
+            "Monthly": "6144.75 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6135.0,
+            "VIX": 25.35,
+            "AIPivot": "6081 (H1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-11",
+          "levels": {
+            "4H": "5685 (0ATR)",
+            "Daily": "5685 (1ATR)",
+            "Weekly": "5685 (0ATR)",
+            "Monthly": "5685 (0ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Down/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 Min OBH",
+            "Level": "5750 (VWAP)",
+            "VIX": 23.74,
+            "AIPivot": 5642.0
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 714",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6274.0,
+          "note": "Last week didn't see much progress. Things are starting to slowdown for bulls."
+        },
+        "ES Weekly H1": {
+          "value": 6401.0,
+          "note": "This would give me cause to pause on so many levels"
+        },
+        "ES Weekly H2": {
+          "value": 6762.0,
+          "note": null
+        },
+        "ES Weekly L1": {
+          "value": 6145.0,
+          "note": "No touches in 5 weeks"
+        },
+        "ES Weekly L2": {
+          "value": 5763.5,
+          "note": "This strangely is a more realistic target"
+        },
+        "VWAP Daily": {
+          "value": 6270.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6270.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6282.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6282.0,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Yearly": {
+          "value": 5819.0,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6220.0,
+          "note": "Low volume selling from here to 6184"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Moderate Sell",
+          "note": "We are in the 8th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Sell",
+          "note": "While green is positive it won't clear the yellow before it turns over. Maybe."
+        },
+        "ES Daily Posture": {
+          "value": "Weak buy",
+          "note": "We're flirting with the 1atr and the mean look for bounces off of these levels. Don't chase"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6000.0,
+          "note": "1ATR regression"
+        },
+        "ES Weekly Projected Price": {
+          "value": 6184.25,
+          "note": "1ATR regression"
+        },
+        "ES Daily Projected Price": {
+          "value": 6204.0,
+          "note": "Mean regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "Yes",
+          "note": "We will move down to begin the week."
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "There's a premium on patience and discipline"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6216.0,
+          "note": "Low sell volume area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 51.01,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 37.51,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.37,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Inflation Tuesday and Wednesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-07-14",
+          "levels": {
+            "4H": "6274 (1ATR)",
+            "Daily": "6274 (1ATR)",
+            "Weekly": "6274 (1ATR)",
+            "Monthly": "6274 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down /Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "4hrs. OSH",
+            "Level": 6220.0,
+            "VIX": 21.37,
+            "AIPivot": "6145 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-15",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-07-16",
+          "levels": {
+            "4H": "6249 (1ATR)",
+            "Daily": "6249 (2ATR)",
+            "Weekly": "6249 (1ATR)",
+            "Monthly": "6249 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6210.0,
+            "VIX": 15.41,
+            "AIPivot": "6095 (L1)"
+          },
+          "event": "Jerome Powell at 10am"
+        },
+        {
+          "date": "2025-07-17",
+          "levels": {
+            "4H": "6144.75 (1ATR)",
+            "Daily": "6144.75 (1ATR)",
+            "Weekly": "6144.75 (1ATR)",
+            "Monthly": "6144.75 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6135.0,
+            "VIX": 25.35,
+            "AIPivot": "6081 (H1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-18",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 721",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6335.75,
+          "note": "Last week didn't see much progress. Things are starting to slowdown for bulls."
+        },
+        "ES Weekly H1": {
+          "value": 6469.0,
+          "note": "This would give me cause to pause on so many levels"
+        },
+        "ES Weekly H2": {
+          "value": 6828.0,
+          "note": null
+        },
+        "ES Weekly L1": {
+          "value": 6211.0,
+          "note": "No touches in 6 weeks"
+        },
+        "ES Weekly L2": {
+          "value": 5824.5,
+          "note": "This strangely is a more realistic target"
+        },
+        "VWAP Daily": {
+          "value": 6351.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6351.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6293.5,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6293.5,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Yearly": {
+          "value": 5833.0,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6309.0,
+          "note": "Low volume selling from here to 6184"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Sell",
+          "note": "We are in the 8th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Sell",
+          "note": "While green is positive it won't clear the yellow before it turns over. Maybe."
+        },
+        "ES Daily Posture": {
+          "value": "Weak buy",
+          "note": "We'reat 2ATR and in need of reversion wait so that you can get the easy buy and sells"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6039.0,
+          "note": "1ATR regression"
+        },
+        "ES Weekly Projected Price": {
+          "value": 6052.0,
+          "note": "0ATR regression"
+        },
+        "ES Daily Projected Price": {
+          "value": 6170.0,
+          "note": "-2ATR Regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No expect anything"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "There's a premium on patience and discipline"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6316.0,
+          "note": "Low sell volume area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 51.01,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 37.51,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.37,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Jerome speaks on Tuesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-07-21",
+          "levels": {
+            "4H": "6274 (1ATR)",
+            "Daily": "6274 (1ATR)",
+            "Weekly": "6274 (1ATR)",
+            "Monthly": "6274 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down /Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "4hrs. OSH",
+            "Level": 6220.0,
+            "VIX": 21.37,
+            "AIPivot": "6145 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-22",
+          "levels": {
+            "4H": "6347 (1ATR)",
+            "Daily": "6347 (1ATR)",
+            "Weekly": "6347 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6297.0,
+            "VIX": 20.67,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": "Jerome Powell at 830am"
+        },
+        {
+          "date": "2025-07-23",
+          "levels": {
+            "4H": "6404 (3ATR)",
+            "Daily": "6404 (2ATR)",
+            "Weekly": "6404 (2ATR)",
+            "Monthly": "6404 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-up/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6351.0,
+            "VIX": 15.77,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-24",
+          "levels": {
+            "4H": "6404 (3ATR)",
+            "Daily": "6404 (2ATR)",
+            "Weekly": "6404 (2ATR)",
+            "Monthly": "6404 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-up/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6365.0,
+            "VIX": 14.77,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-25",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 728",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6257.0,
+          "note": "There was a large retracement to close the previous week"
+        },
+        "ES Weekly H1": {
+          "value": 6389.0,
+          "note": "No touches in 5 weeks"
+        },
+        "ES Weekly H2": {
+          "value": 6742.0,
+          "note": "Short with no regrets"
+        },
+        "ES Weekly L1": {
+          "value": 6133.0,
+          "note": "Last week broke a 7 week drought"
+        },
+        "ES Weekly L2": {
+          "value": 5747.0,
+          "note": "Not happening"
+        },
+        "VWAP Daily": {
+          "value": 6327.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6327.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6293.75,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Quarterly": {
+          "value": 6330.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 5865.25,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6246.0,
+          "note": "Parabolic SAR this will be an important level as it was the low from last week as well"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Sell",
+          "note": "We are in the 9th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "The weekly is all speed don't buy tops"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Buy",
+          "note": "Not much momentum on a daily basis so levels can get hammered"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6083.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 5900.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6531.0,
+          "note": "2ATR Regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "None look for more stability this week."
+        },
+        "ES Bear Trap Zone": {
+          "value": 6253.0,
+          "note": "This is a low selling area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 51.01,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 37.51,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.37,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC, GDP, amd Mpmfarm payroll"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-07-21",
+          "levels": {
+            "4H": "6450.75 (3ATR)",
+            "Daily": "6450.75 (3ATR)",
+            "Weekly": "6450.75 (2ATR)",
+            "Monthly": "6450.75 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up /Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6428.0,
+            "VIX": 21.37,
+            "AIPivot": "6324.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-22",
+          "levels": {
+            "4H": "6347 (1ATR)",
+            "Daily": "6347 (1ATR)",
+            "Weekly": "6347 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6297.0,
+            "VIX": 20.67,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": "Jerome Powell at 830am"
+        },
+        {
+          "date": "2025-07-23",
+          "levels": {
+            "4H": "6404 (3ATR)",
+            "Daily": "6404 (2ATR)",
+            "Weekly": "6404 (2ATR)",
+            "Monthly": "6404 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-up/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6351.0,
+            "VIX": 15.77,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2025-07-24",
+          "levels": {
+            "4H": "6435 (1ATR)",
+            "Daily": "6435 (2ATR)",
+            "Weekly": "6435 (2ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6380.0,
+            "VIX": 20.67,
+            "AIPivot": "6324.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-07-25",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 84",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6257.0,
+          "note": "There was a large retracement to close the previous week"
+        },
+        "ES Weekly H1": {
+          "value": 6389.0,
+          "note": "No touches in 5 weeks"
+        },
+        "ES Weekly H2": {
+          "value": 6742.0,
+          "note": "Short with no regrets"
+        },
+        "ES Weekly L1": {
+          "value": 6133.0,
+          "note": "Last week broke a 7 week drought"
+        },
+        "ES Weekly L2": {
+          "value": 5747.0,
+          "note": "Not happening"
+        },
+        "VWAP Daily": {
+          "value": 6327.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6327.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6293.75,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Quarterly": {
+          "value": 6330.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 5865.25,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6246.0,
+          "note": "Parabolic SAR this will be an important level as it was the low from last week as well"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Sell",
+          "note": "We are in the 9th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "The weekly is all speed don't buy tops"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Buy",
+          "note": "Not much momentum on a daily basis so levels can get hammered"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6083.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 5900.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6531.0,
+          "note": "2ATR Regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "None look for more stability this week."
+        },
+        "ES Bear Trap Zone": {
+          "value": 6253.0,
+          "note": "This is a low selling area."
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 51.01,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 37.51,
+          "note": "Pending"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.37,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "No",
+          "note": "None look for more stability this week."
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip. Triggers will be effective"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-08-04",
+          "levels": {
+            "4H": "6257 (-3ATR)",
+            "Daily": "6257 (-1ATR)",
+            "Weekly": "6257 (1ATR)",
+            "Monthly": "6257 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down /Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 20.33,
+            "AIPivot": "6143 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-05",
+          "levels": {
+            "4H": "6347 (1ATR)",
+            "Daily": "6347 (1ATR)",
+            "Weekly": "6347 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6297.0,
+            "VIX": 20.67,
+            "AIPivot": "6211 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-06",
+          "levels": {
+            "4H": "6371 (0ATR)",
+            "Daily": "6371 (1ATR)",
+            "Weekly": "6371 (1ATR)",
+            "Monthly": "6371 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up/Up",
+            "Daily": "Fast-Down/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6355.25,
+            "VIX": 13.87,
+            "AIPivot": "6133 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-07",
+          "levels": {
+            "4H": "6435 (1ATR)",
+            "Daily": "6435 (2ATR)",
+            "Weekly": "6435 (2ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6380.0,
+            "VIX": 20.67,
+            "AIPivot": "6133 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-08",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 811",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6422.75,
+          "note": "It was a pretty neutral week"
+        },
+        "ES Weekly H1": {
+          "value": 6560.75,
+          "note": null
+        },
+        "ES Weekly H2": {
+          "value": 6923.5,
+          "note": "Short with no regrets"
+        },
+        "ES Weekly L1": {
+          "value": 6300.75,
+          "note": null
+        },
+        "ES Weekly L2": {
+          "value": 5899.75,
+          "note": "Not happening"
+        },
+        "VWAP Daily": {
+          "value": 6419.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6419.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6342.25,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Quarterly": {
+          "value": 6337.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 5878.0,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6366.0,
+          "note": "Parabolic SAR this will be an important level as it was the low from last week as well"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Sell",
+          "note": "We are in the 9th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "The weekly is all speed don't buy tops"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "The daily is reversing out of negative momentum and there may be more strength going forward."
+        },
+        "ES Monthly Projected Price": {
+          "value": 6114.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6143.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6300.0,
+          "note": "2ATR Regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "None look for more stability this week."
+        },
+        "ES Bear Trap Zone": {
+          "value": 6300.0,
+          "note": "Daily -1ATR reversion"
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 50.39,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 33.47,
+          "note": "Pushing negative green"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.38,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Inflation on Tuesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip. Triggers will be effective"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-08-11",
+          "levels": {
+            "4H": "6418 (1ATR)",
+            "Daily": "6418 (1ATR)",
+            "Weekly": "6418 (1ATR)",
+            "Monthly": "6418 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up /Down",
+            "Daily": "Fast-down/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6380.0,
+            "VIX": 17.21,
+            "AIPivot": "6300.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-12",
+          "levels": {
+            "4H": "6396 (0ATR)",
+            "Daily": "6396 (1ATR)",
+            "Weekly": "6396 (1ATR)",
+            "Monthly": "6396 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6390.0,
+            "VIX": 17.21,
+            "AIPivot": "6300.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-13",
+          "levels": {
+            "4H": "6468 (2ATR)",
+            "Daily": "6468 (1ATR)",
+            "Weekly": "6468 (2ATR)",
+            "Monthly": "6468 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Up",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6410.0,
+            "VIX": 13.44,
+            "AIPivot": "6300.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-14",
+          "levels": {
+            "4H": "6435 (1ATR)",
+            "Daily": "6435 (2ATR)",
+            "Weekly": "6435 (2ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6380.0,
+            "VIX": 20.67,
+            "AIPivot": "6133 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-15",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 818",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6467.0,
+          "note": "We stalled out as we approached 2ATR"
+        },
+        "ES Weekly H1": {
+          "value": 6602.0,
+          "note": "This would be close to 3ATR Monthly"
+        },
+        "ES Weekly H2": {
+          "value": 6966.75,
+          "note": "Not happening"
+        },
+        "ES Weekly L1": {
+          "value": 6345.0,
+          "note": null
+        },
+        "ES Weekly L2": {
+          "value": 5934.0,
+          "note": "This could be an extreme point of reversion"
+        },
+        "VWAP Daily": {
+          "value": 6469.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6469.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6386.99,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Quarterly": {
+          "value": 6354.75,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 5891.75,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6503.0,
+          "note": "Don't buy above this level"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Sell",
+          "note": "We are in the 9th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "The momentum is starting to die"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Buy",
+          "note": "Pushing green but look for reversals aim to buy extremes as a result"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6104.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6180.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6400.0,
+          "note": "Mean regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "None look for more stability this week."
+        },
+        "ES Bear Trap Zone": {
+          "value": 6400.0,
+          "note": "Daily mean reversion"
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 50.39,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 33.47,
+          "note": "Pushing negative green"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.38,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC minutes Wednesday and Powell Friday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip. Triggers will be effective"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-08-18",
+          "levels": {
+            "4H": "6467 (-1ATR)",
+            "Daily": "6467 (1ATR)",
+            "Weekly": "6467 (1ATR)",
+            "Monthly": "6467 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-down /Down",
+            "Daily": "Slow-up/Up",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs OSH OSH",
+            "Level": 6443.0,
+            "VIX": 17.21,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-19",
+          "levels": {
+            "4H": "6396 (0ATR)",
+            "Daily": "6396 (1ATR)",
+            "Weekly": "6396 (1ATR)",
+            "Monthly": "6396 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Up/Up",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6390.0,
+            "VIX": 17.21,
+            "AIPivot": "6300.75 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-20",
+          "levels": {
+            "4H": "6433 (0ATR)",
+            "Daily": "6433 (0ATR)",
+            "Weekly": "6433 (1ATR)",
+            "Monthly": "6433 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6396.0,
+            "VIX": 17.21,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": "FOMC Minutes"
+        },
+        {
+          "date": "2025-08-21",
+          "levels": {
+            "4H": "6412 (-1ATR)",
+            "Daily": "6412 (0ATR)",
+            "Weekly": "6412 (1ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6360.0,
+            "VIX": 17.07,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-22",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "Sept2025",
+      "sheet": "Week of 825",
+      "week_date": "2025-07-07",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6493.0,
+          "note": "We stalled out as we approached 2ATR"
+        },
+        "ES Weekly H1": {
+          "value": 6624.0,
+          "note": "This would be close to 3ATR Monthly"
+        },
+        "ES Weekly H2": {
+          "value": 6695.0,
+          "note": "Not happening"
+        },
+        "ES Weekly L1": {
+          "value": 6368.0,
+          "note": null
+        },
+        "ES Weekly L2": {
+          "value": 5964.0,
+          "note": "This could be an extreme point of reversion"
+        },
+        "VWAP Daily": {
+          "value": 6472.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6472.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6400.0,
+          "note": "Looking to buy under this level"
+        },
+        "VWAP Quarterly": {
+          "value": 6365.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 5906.0,
+          "note": "I feel as if value has to come back up before we truly regress. Getting closer."
+        },
+        "Buy Level of Interest": {
+          "value": 6400.0,
+          "note": "Don't buy above this level"
+        },
+        "Sell Level of Interest": {
+          "value": null,
+          "note": "Don't sell in the summer"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "We are in the 9th month of negative momentum on Monthly TTM but still pushing green."
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "The momentum is starting to die but pushing green"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Weekly is in control. Regressions are opportunities to buy"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6817.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6682.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6600.0,
+          "note": "Mean regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "It released on Friday on the 1 hour time frame"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6400.0,
+          "note": "Daily mean reversion"
+        },
+        "ES Bull Trap Zone": {
+          "value": null,
+          "note": "The current Monthly 3ATR is nonsensical. Don't be a pioneer."
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 50.39,
+          "note": "Pending"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 33.47,
+          "note": "Pushing negative green"
+        },
+        "VIX Daily Projected Price": {
+          "value": 21.38,
+          "note": "This is the summer"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": null
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip. Triggers will be effective"
+        }
+      },
+      "daily": [
+        {
+          "date": "2025-08-18",
+          "levels": {
+            "4H": "6493 (2ATR)",
+            "Daily": "6493 (1ATR)",
+            "Weekly": "6493 (2ATR)",
+            "Monthly": "6493 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up /Up",
+            "Daily": "Fast-up/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6672.0,
+            "VIX": 17.21,
+            "AIPivot": "6368 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-19",
+          "levels": {
+            "4H": "6460 (0ATR)",
+            "Daily": "6460 (1ATR)",
+            "Weekly": "6460 (1ATR)",
+            "Monthly": "6460 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up /Down",
+            "Daily": "Fast-up/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6450.0,
+            "VIX": 17.21,
+            "AIPivot": "6368 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-20",
+          "levels": {
+            "4H": "6433 (0ATR)",
+            "Daily": "6433 (0ATR)",
+            "Weekly": "6433 (1ATR)",
+            "Monthly": "6433 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6396.0,
+            "VIX": 17.21,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": "FOMC Minutes"
+        },
+        {
+          "date": "2025-08-21",
+          "levels": {
+            "4H": "6412 (-1ATR)",
+            "Daily": "6412 (0ATR)",
+            "Weekly": "6412 (1ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6360.0,
+            "VIX": 17.07,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2025-08-22",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0105",
+      "week_date": "2026-01-05",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6911.5,
+          "note": "Starting the year on the up"
+        },
+        "ES Weekly H1": {
+          "value": 7002.25,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7191.0,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6836.25,
+          "note": "Buy 1 here should trigger a reversal"
+        },
+        "ES Weekly L2": {
+          "value": 6617.0,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6927.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6927.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6909.5,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6909.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6909.5,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6720.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7175.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "We are high on the monthly so hold everything loosely"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Watch out for quick turns in momentum"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Daily is in disagreement and that will need to play out at some point"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7175.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7175.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6709.0,
+          "note": "-2ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "Yes",
+          "note": "Possilbe trend day on Monday going into Tuesday"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "No",
+          "note": null
+        },
+        "ES Bear Trap Zone": {
+          "value": 6856.0,
+          "note": "-3atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7175.0,
+          "note": "3atr is in reach and could be a point where people get excited and willing to buy"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 43.2,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.62,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.15,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Unemployment rate on Friday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip. Triggers will be effective. Take profits"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-01-05",
+          "levels": {
+            "4H": "6911.5 (-1ATR)",
+            "Daily": "6911.5 (0ATR)",
+            "Weekly": "6911.5 (1ATR)",
+            "Monthly": "6911.5 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6909.0,
+            "VIX": 16.55,
+            "AIPivot": "6836.25 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-06",
+          "levels": {
+            "4H": "6945 (0ATR)",
+            "Daily": "6945 (1ATR)",
+            "Weekly": "6945 (1ATR)",
+            "Monthly": "6945 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-down /Up",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6922.0,
+            "VIX": 16.55,
+            "AIPivot": "6836.25 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-07",
+          "levels": {
+            "4H": "6988 (1ATR)",
+            "Daily": "6988 (2ATR)",
+            "Weekly": "6988 (1ATR)",
+            "Monthly": "6988 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6963.0,
+            "VIX": 16.55,
+            "AIPivot": "6836.25 (L1)"
+          },
+          "event": "FOMC Minutes"
+        },
+        {
+          "date": "2026-01-08",
+          "levels": {
+            "4H": "6412 (-1ATR)",
+            "Daily": "6412 (0ATR)",
+            "Weekly": "6412 (1ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6360.0,
+            "VIX": 17.07,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-09",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0112",
+      "week_date": "2026-01-12",
+      "weekly": {
+        "ES Open Price": {
+          "value": 7007.0,
+          "note": "Highest close all-time"
+        },
+        "ES Weekly H1": {
+          "value": 7100.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7291.0,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6933.5,
+          "note": "Be cautious here on buying"
+        },
+        "ES Weekly L2": {
+          "value": 6709.0,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6971.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6971.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6956.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6956.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6956.0,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6905.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7200.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "We are high on the monthly so hold everything loosely"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Watch out for quick turns in momentum"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Daily is in disagreement and that will need to play out at some point"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7200.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7200.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6876.0,
+          "note": "-1ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "More likely to trend negatively on Tuesday or Wednesday"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "Released Friday but failed Monday the 2hrs is in control"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6876.0,
+          "note": "-2atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7200.0,
+          "note": "3atr is in reach and could be a point where people get excited and willing to buy"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Inflation Tuesday and Wednesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy the dip cautiously after data comes through"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-01-12",
+          "levels": {
+            "4H": "7007 (1ATR)",
+            "Daily": "7007 (1ATR)",
+            "Weekly": "7007 (1ATR)",
+            "Monthly": "7007 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6905.0,
+            "VIX": 19.28,
+            "AIPivot": "6935 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-13",
+          "levels": {
+            "4H": "7017 (1ATR)",
+            "Daily": "7017 (1ATR)",
+            "Weekly": "7017 (1ATR)",
+            "Monthly": "7017 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6983.0,
+            "VIX": 15.69,
+            "AIPivot": "6935 (L1)"
+          },
+          "event": "Inflation at 830am"
+        },
+        {
+          "date": "2026-01-07",
+          "levels": {
+            "4H": "6988 (1ATR)",
+            "Daily": "6988 (2ATR)",
+            "Weekly": "6988 (1ATR)",
+            "Monthly": "6988 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6963.0,
+            "VIX": 16.55,
+            "AIPivot": "6836.25 (L1)"
+          },
+          "event": "FOMC Minutes"
+        },
+        {
+          "date": "2026-01-08",
+          "levels": {
+            "4H": "6412 (-1ATR)",
+            "Daily": "6412 (0ATR)",
+            "Weekly": "6412 (1ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6360.0,
+            "VIX": 17.07,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-09",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0119",
+      "week_date": "2026-01-12",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6918.25,
+          "note": "Gap down as I thought"
+        },
+        "ES Weekly H1": {
+          "value": 7007.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7198.0,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6844.25,
+          "note": "Be cautious here on buying"
+        },
+        "ES Weekly L2": {
+          "value": 6623.25,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6912.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6912.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6968.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6968.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6968.0,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6880.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7300.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7200.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7200.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6744.0,
+          "note": "-1ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "More likely to trend negatively on Tuesday or Wednesday"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "No",
+          "note": "No release"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6814.0,
+          "note": "-2atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7200.0,
+          "note": "3atr is in reach and could be a point where people get excited and willing to buy"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "No",
+          "note": "Just look out for Tariff news"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy extremes"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-01-19",
+          "levels": {
+            "4H": "6918 (-2ATR)",
+            "Daily": "6918 (-1ATR)",
+            "Weekly": "6918 (1ATR)",
+            "Monthly": "6918 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6876.0,
+            "VIX": 19.44,
+            "AIPivot": "6845 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-20",
+          "levels": {
+            "4H": "7017 (1ATR)",
+            "Daily": "7017 (1ATR)",
+            "Weekly": "7017 (1ATR)",
+            "Monthly": "7017 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6983.0,
+            "VIX": 15.69,
+            "AIPivot": "6935 (L1)"
+          },
+          "event": "Inflation at 830am"
+        },
+        {
+          "date": "2026-01-21",
+          "levels": {
+            "4H": "6988 (1ATR)",
+            "Daily": "6988 (2ATR)",
+            "Weekly": "6988 (1ATR)",
+            "Monthly": "6988 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Up/Up",
+            "Daily": "Fast-Up/Up",
+            "Weekly": "Slow-Up/Up",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6800.0,
+            "VIX": 16.55,
+            "AIPivot": 6845.0
+          },
+          "event": "No events; No trades unless we are below 6800"
+        },
+        {
+          "date": "2026-01-08",
+          "levels": {
+            "4H": "6412 (-1ATR)",
+            "Daily": "6412 (0ATR)",
+            "Weekly": "6412 (1ATR)",
+            "Monthly": "6435 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6360.0,
+            "VIX": 17.07,
+            "AIPivot": "6345 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-09",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0126",
+      "week_date": "2026-01-26",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6904.0,
+          "note": "Open gap down"
+        },
+        "ES Weekly H1": {
+          "value": 6984.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7132.5,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6827.0,
+          "note": "Buy here"
+        },
+        "ES Weekly L2": {
+          "value": 6609.25,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6996.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6973.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6947.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6947.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6947.0,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6731.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7300.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7217.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7248.5,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6735.0,
+          "note": "-1ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "No thought"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "No",
+          "note": "No release"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6941.0,
+          "note": "-2atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7200.0,
+          "note": "3atr is in reach and could be a point where people get excited and willing to buy"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Decision on Wednesday"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy extremes"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-01-26",
+          "levels": {
+            "4H": "6904 (-2ATR)",
+            "Daily": "6918 (-1ATR)",
+            "Weekly": "6918 (1ATR)",
+            "Monthly": "6918 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6876.0,
+            "VIX": 19.44,
+            "AIPivot": "6845 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-01-27",
+          "levels": {
+            "4H": "6977 (1ATR)",
+            "Daily": "6977 (0ATR)",
+            "Weekly": "6977 (1ATR)",
+            "Monthly": "6977 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6941.0,
+            "VIX": 17.6,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "Inflation at 830am"
+        },
+        {
+          "date": "2026-01-28",
+          "levels": {
+            "4H": "7005 (1ATR)",
+            "Daily": "7005 (1ATR)",
+            "Weekly": "7005 (2ATR)",
+            "Monthly": "7005 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6983.0,
+            "VIX": 15.76,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-01-29",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-01-30",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0202",
+      "week_date": "2026-02-02",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6938.5,
+          "note": "Open gap down"
+        },
+        "ES Weekly H1": {
+          "value": 7020.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7170.5,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6866.0,
+          "note": "Buy here"
+        },
+        "ES Weekly L2": {
+          "value": 6653.0,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6936.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6936.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6936.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6952.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6952.0,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6800.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7300.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7217.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7253.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6730.0,
+          "note": "-1ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "Mixed direction"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "Currently on squeeze"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6850.0,
+          "note": "-2atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7020.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Nonfarm  Payrolls"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy extremes"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-02-02",
+          "levels": {
+            "4H": "6938 (-1ATR)",
+            "Daily": "6938 (0ATR)",
+            "Weekly": "6938 (1ATR)",
+            "Monthly": "6938 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6850.0,
+            "VIX": 22.02,
+            "AIPivot": "6866 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-03",
+          "levels": {
+            "4H": "6977 (1ATR)",
+            "Daily": "6977 (0ATR)",
+            "Weekly": "6977 (1ATR)",
+            "Monthly": "6977 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6941.0,
+            "VIX": 17.6,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "Inflation at 830am"
+        },
+        {
+          "date": "2026-02-04",
+          "levels": {
+            "4H": "6943 (-1ATR)",
+            "Daily": "6943 (-1ATR)",
+            "Weekly": "6943 (1ATR)",
+            "Monthly": "6943 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OBH",
+            "Level": 7008.0,
+            "VIX": 16.17,
+            "AIPivot": "7020.25 (H1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-05",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-06",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0209",
+      "week_date": "2026-02-02",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6960.0,
+          "note": "Normal open"
+        },
+        "ES Weekly H1": {
+          "value": 7043.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7192.0,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6877.0,
+          "note": "Buy here"
+        },
+        "ES Weekly L2": {
+          "value": 6653.0,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6981.75,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6967.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6917.75,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6943.25,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6943.25,
+          "note": null
+        },
+        "Buy Level of Interest": {
+          "value": 6900.0,
+          "note": "Possible swing trade not to be held tight"
+        },
+        "Sell Level of Interest": {
+          "value": 7300.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7256.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7287.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 7232.0,
+          "note": "-1ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "Mixed direction"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "No",
+          "note": "No"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6870.0,
+          "note": "-1atr"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7047.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Nonfarm  Payrolls"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Quick closes"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-02-09",
+          "levels": {
+            "4H": "6938 (-1ATR)",
+            "Daily": "6938 (0ATR)",
+            "Weekly": "6938 (1ATR)",
+            "Monthly": "6938 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fast-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6850.0,
+            "VIX": 22.02,
+            "AIPivot": "6866 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-10",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-04",
+          "levels": {
+            "4H": "6943 (-1ATR)",
+            "Daily": "6943 (-1ATR)",
+            "Weekly": "6943 (1ATR)",
+            "Monthly": "6943 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OBH",
+            "Level": 7008.0,
+            "VIX": 16.17,
+            "AIPivot": "7020.25 (H1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-05",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-06",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "March2026",
+      "sheet": "Week of 0216",
+      "week_date": "2026-02-16",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6845.0,
+          "note": "Normal open"
+        },
+        "ES Weekly H1": {
+          "value": 6930.0,
+          "note": "This area could trigger possible reversion"
+        },
+        "ES Weekly H2": {
+          "value": 7062.0,
+          "note": "Sell everything."
+        },
+        "ES Weekly L1": {
+          "value": 6765.0,
+          "note": "Buy here"
+        },
+        "ES Weekly L2": {
+          "value": 6542.0,
+          "note": "We're not quite ready for this move."
+        },
+        "VWAP Daily": {
+          "value": 6854.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6929.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6919.5,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6940.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6940.0,
+          "note": "3 point decrease from last week"
+        },
+        "Buy Level of Interest": {
+          "value": 6740.0,
+          "note": "-2ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": 7300.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Moderate Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7256.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6650.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6632.0,
+          "note": "-3ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "no"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "Yet to release look for a sprint down"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6750.0,
+          "note": "-3atr 4hrs."
+        },
+        "ES Bull Trap Zone": {
+          "value": 7300.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 44.35,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 27.49,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 19.54,
+          "note": "This level was achieved"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "Nonfarm  Payrolls"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "We are almost in swing territory"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-02-16",
+          "levels": {
+            "4H": "6845 (-1ATR)",
+            "Daily": "6845 (1ATR)",
+            "Weekly": "6845 (0ATR)",
+            "Monthly": "6845 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6800.0,
+            "VIX": 24.0,
+            "AIPivot": "6765 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-17",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-18",
+          "levels": {
+            "4H": "6943 (-1ATR)",
+            "Daily": "6943 (-1ATR)",
+            "Weekly": "6943 (1ATR)",
+            "Monthly": "6943 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OBH",
+            "Level": 7008.0,
+            "VIX": 16.17,
+            "AIPivot": "7020.25 (H1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "June2026",
+      "sheet": "Week of 0309",
+      "week_date": "2026-02-16",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6590.0,
+          "note": "So many gap downs to open on Sundays it seems normal"
+        },
+        "ES Weekly H1": {
+          "value": 6672.0,
+          "note": "Huge reversion is possible here"
+        },
+        "ES Weekly H2": {
+          "value": 6868.0,
+          "note": "This is a selling area in this season"
+        },
+        "ES Weekly L1": {
+          "value": 6499.0,
+          "note": "Huge reversion is possible here"
+        },
+        "ES Weekly L2": {
+          "value": 6307.0,
+          "note": "The previous daily swing trade. Examine the heat when we get here"
+        },
+        "VWAP Daily": {
+          "value": 6578.5,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6578.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6601.5,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6601.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6820.75,
+          "note": "300 points less than this would trigger a reversal of some sort 6520"
+        },
+        "Buy Level of Interest": {
+          "value": 6300.0,
+          "note": "-3ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": "Unknown",
+          "note": "Don't sell"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Sell",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Sell",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7256.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6650.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6632.0,
+          "note": "-3ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "no"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "Yet to release look for a sprint down"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6600.0,
+          "note": "-3atr 4hrs."
+        },
+        "ES Bull Trap Zone": {
+          "value": 7300.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 48.3,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 36.75,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 34.64,
+          "note": "This level was achieved"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Minutes"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "We are almost in swing territory"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-02-16",
+          "levels": {
+            "4H": "6845 (-1ATR)",
+            "Daily": "6845 (1ATR)",
+            "Weekly": "6845 (0ATR)",
+            "Monthly": "6845 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6800.0,
+            "VIX": 24.0,
+            "AIPivot": "6765 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-17",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-02-18",
+          "levels": {
+            "4H": "6943 (-1ATR)",
+            "Daily": "6943 (-1ATR)",
+            "Weekly": "6943 (1ATR)",
+            "Monthly": "6943 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OBH",
+            "Level": 7008.0,
+            "VIX": 16.17,
+            "AIPivot": "7020.25 (H1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-02-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "June2026",
+      "sheet": "Week of 0316",
+      "week_date": "2026-03-16",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6659.75,
+          "note": "Mild gap down looking to hit -3ATR"
+        },
+        "ES Weekly H1": {
+          "value": 6737.0,
+          "note": "This was realized overnight"
+        },
+        "ES Weekly H2": {
+          "value": 6876.0,
+          "note": "This would be a sign of reversion to the 7000"
+        },
+        "ES Weekly L1": {
+          "value": 6575.0,
+          "note": "This is the Entry that will revert fully"
+        },
+        "ES Weekly L2": {
+          "value": 6380.0,
+          "note": "This will likely not occur"
+        },
+        "VWAP Daily": {
+          "value": 6667.5,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6667.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6773.25,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6890.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6890.0,
+          "note": "300 points less than this would trigger a reversal of some sort"
+        },
+        "Buy Level of Interest": {
+          "value": 6590.0,
+          "note": "-2ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": 7400.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6407.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6540.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6540.0,
+          "note": "-3ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "no"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "Yes",
+          "note": "Yes released Monday morning"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6590.0,
+          "note": "Daily -3ATR"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7300.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "Weekly is pushing green"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 48.3,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 36.75,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 34.64,
+          "note": "This level was achieved"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Decision and Contract Change"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "We are in swing territor"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-03-16",
+          "levels": {
+            "4H": "6845 (-1ATR)",
+            "Daily": "6845 (1ATR)",
+            "Weekly": "6845 (0ATR)",
+            "Monthly": "6845 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6800.0,
+            "VIX": 24.0,
+            "AIPivot": "6765 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-17",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-18",
+          "levels": {
+            "4H": "6943 (-1ATR)",
+            "Daily": "6943 (-1ATR)",
+            "Weekly": "6943 (1ATR)",
+            "Monthly": "6943 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OBH",
+            "Level": 7008.0,
+            "VIX": 16.17,
+            "AIPivot": "7020.25 (H1)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "June2026",
+      "sheet": "Week of 0323",
+      "week_date": "2026-03-16",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6506.0,
+          "note": "Major Gap down we are in selling season"
+        },
+        "ES Weekly H1": {
+          "value": 6592.0,
+          "note": "Cleared early Monday morning"
+        },
+        "ES Weekly H2": {
+          "value": 6740.0,
+          "note": "Touched early Monday morning two consecutive weeks of H2 approaches or touches"
+        },
+        "ES Weekly L1": {
+          "value": 6427.0,
+          "note": "This is the Entry that will revert fully"
+        },
+        "ES Weekly L2": {
+          "value": 6238.0,
+          "note": "This will likely not occur"
+        },
+        "VWAP Daily": {
+          "value": 6560.5,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6560.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6744.25,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6871.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6871.5,
+          "note": "300 points less than this would trigger a reversal of some sort"
+        },
+        "Buy Level of Interest": {
+          "value": 6343.0,
+          "note": "-3ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": 7400.0,
+          "note": "3ATR this is a strong sell area."
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6345.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6177.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6345.0,
+          "note": "-3ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": "no"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "No",
+          "note": null
+        },
+        "ES Bear Trap Zone": {
+          "value": 6345.0,
+          "note": "Daily -3ATR"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7300.0,
+          "note": "Big traps being set for Bulls"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "Weekly is pushing green"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 48.3,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 36.75,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 34.64,
+          "note": "This level was achieved"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Decision and Contract Change"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "We are in swing territor"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-03-23",
+          "levels": {
+            "4H": "6845 (-1ATR)",
+            "Daily": "6845 (1ATR)",
+            "Weekly": "6845 (0ATR)",
+            "Monthly": "6845 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Down",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6800.0,
+            "VIX": 24.0,
+            "AIPivot": "6765 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-24",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-25",
+          "levels": {
+            "4H": "6607 (0ATR)",
+            "Daily": "6607 (-1ATR)",
+            "Weekly": "6607 (-1ATR)",
+            "Monthly": "6607 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Down/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs OSH",
+            "Level": 5530.0,
+            "VIX": 39.53,
+            "AIPivot": "6506 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "June2026",
+      "sheet": "Week of 046",
+      "week_date": "2026-03-16",
+      "weekly": {
+        "ES Open Price": {
+          "value": 6590.0,
+          "note": "So many gap downs to open on Sundays it seems normal"
+        },
+        "ES Weekly H1": {
+          "value": 6672.0,
+          "note": "Huge reversion is possible here"
+        },
+        "ES Weekly H2": {
+          "value": 6868.0,
+          "note": "This is a selling area in this season"
+        },
+        "ES Weekly L1": {
+          "value": 6499.0,
+          "note": "Huge reversion is possible here"
+        },
+        "ES Weekly L2": {
+          "value": 6307.0,
+          "note": "The previous daily swing trade. Examine the heat when we get here"
+        },
+        "VWAP Daily": {
+          "value": 6578.5,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 6578.5,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6601.5,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6601.5,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6820.75,
+          "note": "300 points less than this would trigger a reversal of some sort 6520"
+        },
+        "Buy Level of Interest": {
+          "value": 6300.0,
+          "note": "-3ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": "Unknown",
+          "note": "Don't sell"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Sell",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Weak Sell",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 6305.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 6152.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 6300.0,
+          "note": "-3ATR regression"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "Yes",
+          "note": "Yes possible trend down"
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": "Yet to release look for a sprint down"
+        },
+        "ES Bear Trap Zone": {
+          "value": 6300.0,
+          "note": "Monthly mean"
+        },
+        "ES Bull Trap Zone": {
+          "value": 6672.0,
+          "note": "Previous H2"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 48.86,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 40.28,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 36.8,
+          "note": "Pending"
+        },
+        "Major Economic Event": {
+          "value": "Yes",
+          "note": "FOMC Minutes, GDP, & Inflation"
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "We are in swing territor"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-04-06",
+          "levels": {
+            "4H": "6590 (-ATR)",
+            "Daily": "6590 (0ATR)",
+            "Weekly": "6590 (-1ATR)",
+            "Monthly": "6590 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Down/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs. OSH",
+            "Level": 6650.0,
+            "VIX": 27.0,
+            "AIPivot": "6500 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-04-06",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-25",
+          "levels": {
+            "4H": "6607 (0ATR)",
+            "Daily": "6607 (-1ATR)",
+            "Weekly": "6607 (-1ATR)",
+            "Monthly": "6607 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Down/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs OSH",
+            "Level": 5530.0,
+            "VIX": 39.53,
+            "AIPivot": "6506 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    },
+    {
+      "contract": "June2026",
+      "sheet": "Week of 0427",
+      "week_date": "2026-04-27",
+      "weekly": {
+        "ES Open Price": {
+          "value": 7185.0,
+          "note": "So many gap downs to open on Sundays it seems normal"
+        },
+        "ES Weekly H1": {
+          "value": 7308.0,
+          "note": "We need reversion to get here first"
+        },
+        "ES Weekly H2": {
+          "value": 7592.0,
+          "note": "Not this week"
+        },
+        "ES Weekly L1": {
+          "value": 7096.5,
+          "note": "This would be an ideal buy area"
+        },
+        "ES Weekly L2": {
+          "value": 6884.45,
+          "note": "This is a a dream but possible with Trump"
+        },
+        "VWAP Daily": {
+          "value": 7191.0,
+          "note": null
+        },
+        "VWAP Weekly": {
+          "value": 7191.0,
+          "note": null
+        },
+        "VWAP Monthly": {
+          "value": 6917.0,
+          "note": null
+        },
+        "VWAP Quarterly": {
+          "value": 6917.0,
+          "note": null
+        },
+        "VWAP Yearly": {
+          "value": 6848.25,
+          "note": "300 points less than this would trigger a reversal of some sort 6520"
+        },
+        "Buy Level of Interest": {
+          "value": 7100.0,
+          "note": "1ATR on the Daily"
+        },
+        "Sell Level of Interest": {
+          "value": "Unknown",
+          "note": "Don't sell"
+        },
+        "ES Monthly Posture": {
+          "value": "Weak Buy",
+          "note": "Take you time and exit quick"
+        },
+        "ES Weekly Posture": {
+          "value": "Weak Buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Daily Posture": {
+          "value": "Weak buy",
+          "note": "Look to exit quickly"
+        },
+        "ES Monthly Projected Price": {
+          "value": 7550.0,
+          "note": null
+        },
+        "ES Weekly Projected Price": {
+          "value": 7504.0,
+          "note": null
+        },
+        "ES Daily Projected Price": {
+          "value": 7253.0,
+          "note": "3ATR"
+        },
+        "ES 15-30-45-1H Green Push": {
+          "value": "No",
+          "note": null
+        },
+        "ES Squeeze <=1hrs": {
+          "value": "no",
+          "note": null
+        },
+        "ES Bear Trap Zone": {
+          "value": 7096.0,
+          "note": "WEEKLY L1"
+        },
+        "ES Bull Trap Zone": {
+          "value": 7253.0,
+          "note": "Daily 3ATR"
+        },
+        "VIX Monthly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Weekly Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Daily Posture": {
+          "value": "Buy",
+          "note": "I don't trust vix"
+        },
+        "VIX Monthly Projected Price": {
+          "value": 48.3,
+          "note": "Monthly squeeze"
+        },
+        "VIX Weekly Projected Price": {
+          "value": 37.52,
+          "note": "We need a spike to express the negative momentum"
+        },
+        "VIX Daily Projected Price": {
+          "value": 26.77,
+          "note": "Pending"
+        },
+        "Major Economic Event": {
+          "value": "NO",
+          "note": null
+        },
+        "Plan of Action": {
+          "value": "BUY",
+          "note": "Buy and sell quickly"
+        }
+      },
+      "daily": [
+        {
+          "date": "2026-04-27",
+          "levels": {
+            "4H": "7185 (1ATR)",
+            "Daily": "7185 (2ATR)",
+            "Weekly": "7185 (1ATR)",
+            "Monthly": "7185 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Slow-Down/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 7144.0,
+            "VIX": 26.77,
+            "AIPivot": "7096 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-04-06",
+          "levels": {
+            "4H": "6985 (1ATR)",
+            "Daily": "6985 (1ATR)",
+            "Weekly": "6985 (1ATR)",
+            "Monthly": "6985 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Fsst-Up/Up",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "15 min OSH",
+            "Level": 6943.0,
+            "VIX": 16.17,
+            "AIPivot": "6876 (L1)"
+          },
+          "event": null
+        },
+        {
+          "date": "2026-03-25",
+          "levels": {
+            "4H": "6607 (0ATR)",
+            "Daily": "6607 (-1ATR)",
+            "Weekly": "6607 (-1ATR)",
+            "Monthly": "6607 (1ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Down/Down",
+            "Weekly": "Slow-Down/Down",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "1 Hrs OSH",
+            "Level": 5530.0,
+            "VIX": 39.53,
+            "AIPivot": "6506 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-19",
+          "levels": {
+            "4H": "7021 (0ATR)",
+            "Daily": "7021 (1ATR)",
+            "Weekly": "7021 (1ATR)",
+            "Monthly": "7021 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Up/Down",
+            "Daily": "Slow-Down/Up",
+            "Weekly": "Slow-Up/Down",
+            "Monthly": "Slow-Up/Up"
+          },
+          "triggers": {
+            "VScore": "1 hrs. OSH",
+            "Level": 6960.0,
+            "VIX": 18.32,
+            "AIPivot": "6904 (O)"
+          },
+          "event": "FOMC Decision"
+        },
+        {
+          "date": "2026-03-20",
+          "levels": {
+            "4H": "6343 (2ATR)",
+            "Daily": "6343 (1ATR)",
+            "Weekly": "6343 (1ATR)",
+            "Monthly": "6343 (2ATR)"
+          },
+          "momentum": {
+            "4H": "Slow-Down/Up",
+            "Daily": "Slow-Up/Down",
+            "Weekly": "Fast-Up/Up",
+            "Monthly": "Slow-Up/Down"
+          },
+          "triggers": {
+            "VScore": "15 min. OSH",
+            "Level": 6290.0,
+            "VIX": 21.37,
+            "AIPivot": "6148 (L1)"
+          },
+          "event": null
+        }
+      ]
+    }
+  ],
+  "historical": [
+    {
+      "date": "2025-06-23",
+      "sheet": "Week of 623",
+      "contract": "Sept2025",
+      "open": 6018.0,
+      "h1": 6118.25,
+      "h2": 6454.5,
+      "l1": 5897.0,
+      "l2": 5515.0,
+      "vwap_d": 6020.25,
+      "vwap_w": 6046.5,
+      "vwap_m": 6010.25,
+      "posture": "Moderate Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-06-23",
+      "sheet": "Week of 630",
+      "contract": "Sept2025",
+      "open": 6223.0,
+      "h1": 6354.0,
+      "h2": 6708.0,
+      "l1": 6095.0,
+      "l2": 5717.0,
+      "vwap_d": 6244.25,
+      "vwap_w": 6244.25,
+      "vwap_m": 6041.0,
+      "posture": "Moderate Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 77",
+      "contract": "Sept2025",
+      "open": 6307.75,
+      "h1": 6440.5,
+      "h2": 6799.0,
+      "l1": 6178.0,
+      "l2": 5794.0,
+      "vwap_d": 6304.25,
+      "vwap_w": 6304.25,
+      "vwap_m": 6262.25,
+      "posture": "Moderate Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 714",
+      "contract": "Sept2025",
+      "open": 6274.0,
+      "h1": 6401.0,
+      "h2": 6762.0,
+      "l1": 6145.0,
+      "l2": 5763.5,
+      "vwap_d": 6270.0,
+      "vwap_w": 6270.0,
+      "vwap_m": 6282.0,
+      "posture": "Moderate Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 721",
+      "contract": "Sept2025",
+      "open": 6335.75,
+      "h1": 6469.0,
+      "h2": 6828.0,
+      "l1": 6211.0,
+      "l2": 5824.5,
+      "vwap_d": 6351.0,
+      "vwap_w": 6351.0,
+      "vwap_m": 6293.5,
+      "posture": "Weak Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 728",
+      "contract": "Sept2025",
+      "open": 6257.0,
+      "h1": 6389.0,
+      "h2": 6742.0,
+      "l1": 6133.0,
+      "l2": 5747.0,
+      "vwap_d": 6327.0,
+      "vwap_w": 6327.0,
+      "vwap_m": 6293.75,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 84",
+      "contract": "Sept2025",
+      "open": 6257.0,
+      "h1": 6389.0,
+      "h2": 6742.0,
+      "l1": 6133.0,
+      "l2": 5747.0,
+      "vwap_d": 6327.0,
+      "vwap_w": 6327.0,
+      "vwap_m": 6293.75,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 811",
+      "contract": "Sept2025",
+      "open": 6422.75,
+      "h1": 6560.75,
+      "h2": 6923.5,
+      "l1": 6300.75,
+      "l2": 5899.75,
+      "vwap_d": 6419.0,
+      "vwap_w": 6419.0,
+      "vwap_m": 6342.25,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 818",
+      "contract": "Sept2025",
+      "open": 6467.0,
+      "h1": 6602.0,
+      "h2": 6966.75,
+      "l1": 6345.0,
+      "l2": 5934.0,
+      "vwap_d": 6469.0,
+      "vwap_w": 6469.0,
+      "vwap_m": 6386.99,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2025-07-07",
+      "sheet": "Week of 825",
+      "contract": "Sept2025",
+      "open": 6493.0,
+      "h1": 6624.0,
+      "h2": 6695.0,
+      "l1": 6368.0,
+      "l2": 5964.0,
+      "vwap_d": 6472.0,
+      "vwap_w": 6472.0,
+      "vwap_m": 6400.0,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-01-05",
+      "sheet": "Week of 0105",
+      "contract": "March2026",
+      "open": 6911.5,
+      "h1": 7002.25,
+      "h2": 7191.0,
+      "l1": 6836.25,
+      "l2": 6617.0,
+      "vwap_d": 6927.0,
+      "vwap_w": 6927.0,
+      "vwap_m": 6909.5,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-01-12",
+      "sheet": "Week of 0112",
+      "contract": "March2026",
+      "open": 7007.0,
+      "h1": 7100.0,
+      "h2": 7291.0,
+      "l1": 6933.5,
+      "l2": 6709.0,
+      "vwap_d": 6971.0,
+      "vwap_w": 6971.0,
+      "vwap_m": 6956.0,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-01-12",
+      "sheet": "Week of 0119",
+      "contract": "March2026",
+      "open": 6918.25,
+      "h1": 7007.0,
+      "h2": 7198.0,
+      "l1": 6844.25,
+      "l2": 6623.25,
+      "vwap_d": 6912.0,
+      "vwap_w": 6912.0,
+      "vwap_m": 6968.0,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-01-26",
+      "sheet": "Week of 0126",
+      "contract": "March2026",
+      "open": 6904.0,
+      "h1": 6984.0,
+      "h2": 7132.5,
+      "l1": 6827.0,
+      "l2": 6609.25,
+      "vwap_d": 6996.0,
+      "vwap_w": 6973.0,
+      "vwap_m": 6947.0,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-02-02",
+      "sheet": "Week of 0202",
+      "contract": "March2026",
+      "open": 6938.5,
+      "h1": 7020.0,
+      "h2": 7170.5,
+      "l1": 6866.0,
+      "l2": 6653.0,
+      "vwap_d": 6936.0,
+      "vwap_w": 6936.0,
+      "vwap_m": 6936.0,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-02-02",
+      "sheet": "Week of 0209",
+      "contract": "March2026",
+      "open": 6960.0,
+      "h1": 7043.0,
+      "h2": 7192.0,
+      "l1": 6877.0,
+      "l2": 6653.0,
+      "vwap_d": 6981.75,
+      "vwap_w": 6967.5,
+      "vwap_m": 6917.75,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-02-16",
+      "sheet": "Week of 0216",
+      "contract": "March2026",
+      "open": 6845.0,
+      "h1": 6930.0,
+      "h2": 7062.0,
+      "l1": 6765.0,
+      "l2": 6542.0,
+      "vwap_d": 6854.0,
+      "vwap_w": 6929.0,
+      "vwap_m": 6919.5,
+      "posture": "Moderate Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-02-16",
+      "sheet": "Week of 0309",
+      "contract": "June2026",
+      "open": 6590.0,
+      "h1": 6672.0,
+      "h2": 6868.0,
+      "l1": 6499.0,
+      "l2": 6307.0,
+      "vwap_d": 6578.5,
+      "vwap_w": 6578.5,
+      "vwap_m": 6601.5,
+      "posture": "Weak Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-03-16",
+      "sheet": "Week of 0316",
+      "contract": "June2026",
+      "open": 6659.75,
+      "h1": 6737.0,
+      "h2": 6876.0,
+      "l1": 6575.0,
+      "l2": 6380.0,
+      "vwap_d": 6667.5,
+      "vwap_w": 6667.5,
+      "vwap_m": 6773.25,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-03-16",
+      "sheet": "Week of 0323",
+      "contract": "June2026",
+      "open": 6506.0,
+      "h1": 6592.0,
+      "h2": 6740.0,
+      "l1": 6427.0,
+      "l2": 6238.0,
+      "vwap_d": 6560.5,
+      "vwap_w": 6560.5,
+      "vwap_m": 6744.25,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-03-16",
+      "sheet": "Week of 046",
+      "contract": "June2026",
+      "open": 6590.0,
+      "h1": 6672.0,
+      "h2": 6868.0,
+      "l1": 6499.0,
+      "l2": 6307.0,
+      "vwap_d": 6578.5,
+      "vwap_w": 6578.5,
+      "vwap_m": 6601.5,
+      "posture": "Weak Sell",
+      "plan": "BUY"
+    },
+    {
+      "date": "2026-04-27",
+      "sheet": "Week of 0427",
+      "contract": "June2026",
+      "open": 7185.0,
+      "h1": 7308.0,
+      "h2": 7592.0,
+      "l1": 7096.5,
+      "l2": 6884.45,
+      "vwap_d": 7191.0,
+      "vwap_w": 7191.0,
+      "vwap_m": 6917.0,
+      "posture": "Weak Buy",
+      "plan": "BUY"
+    }
+  ]
+}

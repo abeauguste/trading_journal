@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>net.augustecapital.backupmirror</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/abrahamauguste/AATradingJournal/backend/scripts/pull_backups.sh</string>
+    </array>
+
+    <!-- Pull at 09:00 and 19:00 local; if the Mac was asleep, launchd runs it on next wake. -->
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key><integer>9</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+        <dict>
+            <key>Hour</key><integer>19</integer>
+            <key>Minute</key><integer>0</integer>
+        </dict>
+    </array>
+
+    <!-- Also pull once when the agent is (re)loaded. -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/abrahamauguste/AATradingJournal-backups/launchd.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/abrahamauguste/AATradingJournal-backups/launchd.err.log</string>
+</dict>
+</plist>

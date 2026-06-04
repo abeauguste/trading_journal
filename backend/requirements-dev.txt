@@ -1,0 +1,4 @@
+# Dev/test-only dependencies (not needed at runtime on the droplet).
+# Install with:  pip install -r backend/requirements-dev.txt
+# Run tests with: python -m pytest backend/tests/ -v
+pytest==8.4.2

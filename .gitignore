@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+
+# Databases (data — never commit; backups handle durability)
+*.db
+*.db-shm
+*.db-wal
+
+# Node / frontend build
+node_modules/
+frontend/dist/
+.vite/
+
+# Claude Code local state + agent worktrees (large, machine-local)
+.claude/
+
+# Secrets / local env (note: frontend/.env.production is non-secret build config and IS tracked)
+.env
+.env.local
+*.do_spaces_env
+do_spaces_env
+
+# Build artifacts / archives
+augustecapital.net.zip
+
+# OS
+.DS_Store
+Thumbs.db

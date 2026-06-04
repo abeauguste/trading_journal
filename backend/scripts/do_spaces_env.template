@@ -1,0 +1,13 @@
+# DigitalOcean Spaces credentials for off-site DB backups.
+#
+# Setup:
+#   1. Copy this to the droplet as /root/.do_spaces_env
+#   2. chmod 600 /root/.do_spaces_env   (so only root can read the secrets)
+#   3. Fill in the four values below from the DO console
+#
+# DO NOT commit the filled-in version — it contains secret keys.
+
+SPACES_KEY=          # Spaces access key  (DO console → API → Spaces Keys)
+SPACES_SECRET=       # Spaces secret key  (shown once when you create the key)
+SPACES_BUCKET=       # your Space name, e.g. auguste-capital-backups
+SPACES_REGION=       # region slug, e.g. nyc3  (matches the Space's region)
