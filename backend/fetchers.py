@@ -382,13 +382,13 @@ async def fetch_and_score_news(db: Session) -> int:
         logger.info("News fetch: no items returned from feeds")
         return 0
 
-    # 2. Deduplicate within batch and against DB (last 7 days)
-    cutoff = datetime.now(timezone.utc) - timedelta(days=7)
+    # 2. Deduplicate within batch and against the ENTIRE table. title_hash is UNIQUE
+    #    across all rows, so the dedup must cover every existing hash — not just a recent
+    #    window. (A recurring headline still in the table but outside a time window would
+    #    otherwise slip through and blow up the whole commit on the UNIQUE constraint.)
     existing_hashes = {
         row.title_hash
-        for row in db.query(NewsItem.title_hash)
-                     .filter(NewsItem.fetched_at >= cutoff)
-                     .all()
+        for row in db.query(NewsItem.title_hash).all()
     }
 
     seen_in_batch: set = set()
@@ -425,23 +425,26 @@ async def fetch_and_score_news(db: Session) -> int:
             score = result.get("score", 0)
             if score < NEWS_MIN_SCORE:
                 continue
+            # Per-item SAVEPOINT: a UNIQUE (or other) failure on flush rolls back only
+            # this row, not the whole run. db.add() alone doesn't raise — the constraint
+            # is only enforced at flush, which begin_nested() forces here.
             try:
-                db.add(NewsItem(
-                    title=item["title"][:500],
-                    title_hash=item["title_hash"],
-                    source=item["source"],
-                    url=item["url"],
-                    summary=item["summary"],
-                    score=score,
-                    bias=result.get("bias", "NEUTRAL"),
-                    reason=result.get("reason", "")[:200],
-                    published_at=item["published_at"],
-                    fetched_at=now,
-                ))
+                with db.begin_nested():
+                    db.add(NewsItem(
+                        title=item["title"][:500],
+                        title_hash=item["title_hash"],
+                        source=item["source"],
+                        url=item["url"],
+                        summary=item["summary"],
+                        score=score,
+                        bias=result.get("bias", "NEUTRAL"),
+                        reason=result.get("reason", "")[:200],
+                        published_at=item["published_at"],
+                        fetched_at=now,
+                    ))
                 inserted += 1
             except Exception as exc:
-                logger.warning("News insert failed for '%s': %s", item["title"][:60], exc)
-                db.rollback()
+                logger.warning("News insert skipped for '%s': %s", item["title"][:60], exc)
 
     db.commit()
     logger.info("News fetch: inserted %d items (score >= %d)", inserted, NEWS_MIN_SCORE)
